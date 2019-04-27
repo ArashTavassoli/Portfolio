@@ -4,7 +4,7 @@ Welcome!
 
 Please see below for the list of projects included in this repository. For Jupyter Notebooks I recommend to view the notebooks on nvviewer to avoid rendering issues (through the links provided below) but also feel free to find the notebooks and source codes on this repo.
 
-For more information about me, my resume and some testimonial please visit my personal website at [www.arash-tavassoli.com](www.arash-tavassoli.com).
+For more information about me, my resume and some testimonial please visit my personal website at www.arash-tavassoli.com.
 
 ## Image Classification using a Deep Neural Network
 - Built a deep Neural Network in NumPy for image classification ([Jupyter Notebook](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Image%20Classification,%20Deep%20Neural%20Network/Image%20Classification,%20Deep%20Neural%20Network.ipynb))
