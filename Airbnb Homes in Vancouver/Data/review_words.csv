@@ -1,0 +1,1151 @@
+,neighbourhood_cleansed,Word,Word_Count
+0,Downtown,great,24730
+1,Downtown,location,18912
+2,Downtown,place,18262
+3,Downtown,stay,15037
+4,Downtown,apartment,13053
+5,Downtown,vancouver,10744
+6,Downtown,clean,9742
+7,Downtown,would,8962
+8,Downtown,host,7730
+9,Downtown,everything,7592
+10,Downtown,us,6771
+11,Downtown,nice,6121
+12,Downtown,recommend,6102
+13,Downtown,easy,5972
+14,Downtown,downtown,5736
+15,Downtown,perfect,5505
+16,Downtown,close,4863
+17,Downtown,definitely,4860
+18,Downtown,comfortable,4736
+19,Downtown,view,4714
+20,Downtown,well,4695
+21,Downtown,good,4425
+22,Downtown,amazing,4386
+23,Downtown,really,4257
+24,Downtown,restaurants,4164
+25,Downtown,time,4072
+26,Downtown,city,4072
+27,Downtown,also,3794
+28,Downtown,walking,3754
+29,Downtown,walk,3706
+30,Downtown,super,3200
+31,Downtown,located,3196
+32,Downtown,distance,3191
+33,Downtown,highly,3174
+34,Downtown,check,3146
+35,Downtown,-,3113
+36,Downtown,space,3110
+37,Downtown,condo,3046
+38,Downtown,helpful,3045
+39,Downtown,views,3030
+40,Downtown,room,2998
+41,Downtown,parking,2992
+42,Downtown,beautiful,2855
+43,Downtown,building,2732
+44,Downtown,get,2689
+45,Downtown,need,2632
+46,Downtown,right,2625
+47,Downtown,excellent,2574
+48,Downtown,wonderful,2481
+49,Downtown,needed,2433
+50,Riley Park,great,5647
+51,Riley Park,place,4997
+52,Riley Park,stay,4451
+53,Riley Park,clean,3156
+54,Riley Park,location,3047
+55,Riley Park,vancouver,2468
+56,Riley Park,would,2262
+57,Riley Park,nice,2012
+58,Riley Park,us,1864
+59,Riley Park,comfortable,1845
+60,Riley Park,house,1754
+61,Riley Park,everything,1743
+62,Riley Park,recommend,1742
+63,Riley Park,easy,1607
+64,Riley Park,restaurants,1603
+65,Riley Park,close,1547
+66,Riley Park,host,1500
+67,Riley Park,really,1468
+68,Riley Park,main,1468
+69,Riley Park,home,1466
+70,Riley Park,street,1426
+71,Riley Park,well,1339
+72,Riley Park,good,1334
+73,Riley Park,perfect,1323
+74,Riley Park,room,1302
+75,Riley Park,downtown,1266
+76,Riley Park,definitely,1260
+77,Riley Park,space,1258
+78,Riley Park,quiet,1250
+79,Riley Park,also,1158
+80,Riley Park,apartment,1108
+81,Riley Park,time,1072
+82,Riley Park,suite,1033
+83,Riley Park,hosts,1032
+84,Riley Park,lovely,1029
+85,Riley Park,shops,940
+86,Riley Park,neighborhood,933
+87,Riley Park,super,923
+88,Riley Park,highly,891
+89,Riley Park,wonderful,867
+90,Riley Park,walk,861
+91,Riley Park,helpful,845
+92,Riley Park,-,840
+93,Riley Park,beautiful,819
+94,Riley Park,area,816
+95,Riley Park,needed,799
+96,Riley Park,get,777
+97,Riley Park,bus,771
+98,Riley Park,need,759
+99,Riley Park,friendly,755
+100,Downtown Eastside,great,8906
+101,Downtown Eastside,place,7619
+102,Downtown Eastside,stay,6400
+103,Downtown Eastside,location,4818
+104,Downtown Eastside,vancouver,4168
+105,Downtown Eastside,apartment,3997
+106,Downtown Eastside,clean,3699
+107,Downtown Eastside,would,3534
+108,Downtown Eastside,host,2880
+109,Downtown Eastside,us,2852
+110,Downtown Eastside,everything,2462
+111,Downtown Eastside,recommend,2459
+112,Downtown Eastside,nice,2448
+113,Downtown Eastside,comfortable,2293
+114,Downtown Eastside,easy,2291
+115,Downtown Eastside,really,2172
+116,Downtown Eastside,close,2142
+117,Downtown Eastside,downtown,1955
+118,Downtown Eastside,gastown,1948
+119,Downtown Eastside,perfect,1921
+120,Downtown Eastside,definitely,1897
+121,Downtown Eastside,home,1890
+122,Downtown Eastside,space,1890
+123,Downtown Eastside,well,1864
+124,Downtown Eastside,restaurants,1812
+125,Downtown Eastside,good,1731
+126,Downtown Eastside,walk,1693
+127,Downtown Eastside,time,1680
+128,Downtown Eastside,area,1642
+129,Downtown Eastside,also,1632
+130,Downtown Eastside,amazing,1602
+131,Downtown Eastside,beautiful,1544
+132,Downtown Eastside,city,1527
+133,Downtown Eastside,walking,1511
+134,Downtown Eastside,super,1415
+135,Downtown Eastside,-,1361
+136,Downtown Eastside,helpful,1324
+137,Downtown Eastside,lovely,1300
+138,Downtown Eastside,highly,1290
+139,Downtown Eastside,house,1270
+140,Downtown Eastside,neighborhood,1194
+141,Downtown Eastside,loved,1188
+142,Downtown Eastside,wonderful,1184
+143,Downtown Eastside,around,1178
+144,Downtown Eastside,distance,1163
+145,Downtown Eastside,get,1132
+146,Downtown Eastside,made,1113
+147,Downtown Eastside,room,1110
+148,Downtown Eastside,staying,1092
+149,Downtown Eastside,like,1080
+150,West End,great,8212
+151,West End,location,6481
+152,West End,place,6247
+153,West End,stay,5346
+154,West End,apartment,4798
+155,West End,vancouver,3923
+156,West End,clean,3503
+157,West End,host,3058
+158,West End,would,2891
+159,West End,everything,2862
+160,West End,us,2549
+161,West End,recommend,2135
+162,West End,nice,2118
+163,West End,perfect,2040
+164,West End,downtown,2022
+165,West End,easy,1937
+166,West End,comfortable,1891
+167,West End,close,1795
+168,West End,well,1756
+169,West End,really,1681
+170,West End,restaurants,1595
+171,West End,definitely,1595
+172,West End,good,1543
+173,West End,walk,1462
+174,West End,time,1443
+175,West End,also,1438
+176,West End,walking,1406
+177,West End,amazing,1309
+178,West End,park,1279
+179,West End,city,1232
+180,West End,room,1205
+181,West End,distance,1183
+182,West End,helpful,1166
+183,West End,highly,1096
+184,West End,super,1093
+185,West End,stanley,1090
+186,West End,located,1076
+187,West End,-,1064
+188,West End,view,1034
+189,West End,home,996
+190,West End,need,954
+191,West End,wonderful,948
+192,West End,check,945
+193,West End,needed,915
+194,West End,excellent,907
+195,West End,street,900
+196,West End,space,876
+197,West End,parking,875
+198,West End,beautiful,871
+199,West End,made,862
+200,Kensington-Cedar Cottage,place,5787
+201,Kensington-Cedar Cottage,great,5322
+202,Kensington-Cedar Cottage,stay,4894
+203,Kensington-Cedar Cottage,clean,3757
+204,Kensington-Cedar Cottage,vancouver,2743
+205,Kensington-Cedar Cottage,nice,2488
+206,Kensington-Cedar Cottage,location,2434
+207,Kensington-Cedar Cottage,would,2400
+208,Kensington-Cedar Cottage,us,2141
+209,Kensington-Cedar Cottage,house,2131
+210,Kensington-Cedar Cottage,comfortable,1936
+211,Kensington-Cedar Cottage,recommend,1871
+212,Kensington-Cedar Cottage,everything,1864
+213,Kensington-Cedar Cottage,host,1761
+214,Kensington-Cedar Cottage,easy,1736
+215,Kensington-Cedar Cottage,good,1687
+216,Kensington-Cedar Cottage,really,1653
+217,Kensington-Cedar Cottage,home,1598
+218,Kensington-Cedar Cottage,close,1554
+219,Kensington-Cedar Cottage,downtown,1432
+220,Kensington-Cedar Cottage,well,1390
+221,Kensington-Cedar Cottage,room,1354
+222,Kensington-Cedar Cottage,definitely,1348
+223,Kensington-Cedar Cottage,quiet,1299
+224,Kensington-Cedar Cottage,perfect,1203
+225,Kensington-Cedar Cottage,space,1200
+226,Kensington-Cedar Cottage,time,1148
+227,Kensington-Cedar Cottage,bus,1108
+228,Kensington-Cedar Cottage,also,1070
+229,Kensington-Cedar Cottage,friendly,1053
+230,Kensington-Cedar Cottage,hosts,1033
+231,Kensington-Cedar Cottage,super,1023
+232,Kensington-Cedar Cottage,apartment,980
+233,Kensington-Cedar Cottage,helpful,955
+234,Kensington-Cedar Cottage,lovely,955
+235,Kensington-Cedar Cottage,suite,952
+236,Kensington-Cedar Cottage,get,913
+237,Kensington-Cedar Cottage,restaurants,903
+238,Kensington-Cedar Cottage,kitchen,888
+239,Kensington-Cedar Cottage,bed,881
+240,Kensington-Cedar Cottage,family,875
+241,Kensington-Cedar Cottage,needed,864
+242,Kensington-Cedar Cottage,need,860
+243,Kensington-Cedar Cottage,highly,842
+244,Kensington-Cedar Cottage,walk,791
+245,Kensington-Cedar Cottage,wonderful,766
+246,Kensington-Cedar Cottage,like,760
+247,Kensington-Cedar Cottage,-,753
+248,Kensington-Cedar Cottage,neighborhood,743
+249,Kensington-Cedar Cottage,area,723
+250,Hastings-Sunrise,place,4800
+251,Hastings-Sunrise,great,4269
+252,Hastings-Sunrise,stay,3857
+253,Hastings-Sunrise,clean,2887
+254,Hastings-Sunrise,vancouver,2205
+255,Hastings-Sunrise,nice,1934
+256,Hastings-Sunrise,would,1921
+257,Hastings-Sunrise,us,1830
+258,Hastings-Sunrise,location,1680
+259,Hastings-Sunrise,house,1555
+260,Hastings-Sunrise,comfortable,1553
+261,Hastings-Sunrise,recommend,1533
+262,Hastings-Sunrise,everything,1483
+263,Hastings-Sunrise,host,1477
+264,Hastings-Sunrise,easy,1422
+265,Hastings-Sunrise,downtown,1376
+266,Hastings-Sunrise,home,1290
+267,Hastings-Sunrise,really,1223
+268,Hastings-Sunrise,close,1092
+269,Hastings-Sunrise,definitely,1080
+270,Hastings-Sunrise,good,1042
+271,Hastings-Sunrise,quiet,1029
+272,Hastings-Sunrise,space,1024
+273,Hastings-Sunrise,well,1019
+274,Hastings-Sunrise,time,953
+275,Hastings-Sunrise,bus,940
+276,Hastings-Sunrise,perfect,923
+277,Hastings-Sunrise,also,856
+278,Hastings-Sunrise,super,827
+279,Hastings-Sunrise,room,811
+280,Hastings-Sunrise,apartment,777
+281,Hastings-Sunrise,hosts,770
+282,Hastings-Sunrise,friendly,753
+283,Hastings-Sunrise,get,752
+284,Hastings-Sunrise,highly,729
+285,Hastings-Sunrise,needed,726
+286,Hastings-Sunrise,lovely,721
+287,Hastings-Sunrise,helpful,694
+288,Hastings-Sunrise,suite,678
+289,Hastings-Sunrise,need,653
+290,Hastings-Sunrise,neighborhood,634
+291,Hastings-Sunrise,beautiful,624
+292,Hastings-Sunrise,area,623
+293,Hastings-Sunrise,kitchen,617
+294,Hastings-Sunrise,family,613
+295,Hastings-Sunrise,wonderful,606
+296,Hastings-Sunrise,made,600
+297,Hastings-Sunrise,cozy,596
+298,Hastings-Sunrise,little,595
+299,Hastings-Sunrise,staying,594
+300,Renfrew-Collingwood,place,4555
+301,Renfrew-Collingwood,great,3581
+302,Renfrew-Collingwood,stay,3487
+303,Renfrew-Collingwood,clean,3151
+304,Renfrew-Collingwood,nice,1955
+305,Renfrew-Collingwood,room,1803
+306,Renfrew-Collingwood,vancouver,1694
+307,Renfrew-Collingwood,would,1659
+308,Renfrew-Collingwood,location,1650
+309,Renfrew-Collingwood,house,1522
+310,Renfrew-Collingwood,host,1415
+311,Renfrew-Collingwood,comfortable,1377
+312,Renfrew-Collingwood,good,1364
+313,Renfrew-Collingwood,us,1349
+314,Renfrew-Collingwood,recommend,1309
+315,Renfrew-Collingwood,easy,1255
+316,Renfrew-Collingwood,everything,1242
+317,Renfrew-Collingwood,really,1135
+318,Renfrew-Collingwood,close,1105
+319,Renfrew-Collingwood,skytrain,953
+320,Renfrew-Collingwood,quiet,951
+321,Renfrew-Collingwood,definitely,939
+322,Renfrew-Collingwood,downtown,925
+323,Renfrew-Collingwood,well,885
+324,Renfrew-Collingwood,home,865
+325,Renfrew-Collingwood,time,811
+326,Renfrew-Collingwood,also,759
+327,Renfrew-Collingwood,station,753
+328,Renfrew-Collingwood,get,737
+329,Renfrew-Collingwood,walk,731
+330,Renfrew-Collingwood,train,728
+331,Renfrew-Collingwood,super,710
+332,Renfrew-Collingwood,perfect,678
+333,Renfrew-Collingwood,bed,666
+334,Renfrew-Collingwood,space,655
+335,Renfrew-Collingwood,friendly,646
+336,Renfrew-Collingwood,helpful,634
+337,Renfrew-Collingwood,like,599
+338,Renfrew-Collingwood,convenient,591
+339,Renfrew-Collingwood,kitchen,581
+340,Renfrew-Collingwood,highly,576
+341,Renfrew-Collingwood,need,551
+342,Renfrew-Collingwood,needed,545
+343,Renfrew-Collingwood,bathroom,540
+344,Renfrew-Collingwood,apartment,529
+345,Renfrew-Collingwood,check,514
+346,Renfrew-Collingwood,bus,509
+347,Renfrew-Collingwood,parking,508
+348,Renfrew-Collingwood,area,508
+349,Renfrew-Collingwood,it's,500
+350,Mount Pleasant,great,7080
+351,Mount Pleasant,place,6043
+352,Mount Pleasant,stay,5254
+353,Mount Pleasant,location,3796
+354,Mount Pleasant,clean,3298
+355,Mount Pleasant,vancouver,3265
+356,Mount Pleasant,apartment,2762
+357,Mount Pleasant,would,2762
+358,Mount Pleasant,host,2370
+359,Mount Pleasant,nice,2269
+360,Mount Pleasant,us,2181
+361,Mount Pleasant,easy,2074
+362,Mount Pleasant,comfortable,2066
+363,Mount Pleasant,everything,2048
+364,Mount Pleasant,recommend,2034
+365,Mount Pleasant,close,1860
+366,Mount Pleasant,really,1833
+367,Mount Pleasant,home,1708
+368,Mount Pleasant,well,1662
+369,Mount Pleasant,good,1587
+370,Mount Pleasant,perfect,1534
+371,Mount Pleasant,definitely,1496
+372,Mount Pleasant,restaurants,1476
+373,Mount Pleasant,downtown,1473
+374,Mount Pleasant,house,1364
+375,Mount Pleasant,space,1315
+376,Mount Pleasant,time,1298
+377,Mount Pleasant,also,1243
+378,Mount Pleasant,super,1222
+379,Mount Pleasant,quiet,1182
+380,Mount Pleasant,lovely,1156
+381,Mount Pleasant,walk,1152
+382,Mount Pleasant,room,1056
+383,Mount Pleasant,friendly,1050
+384,Mount Pleasant,-,1031
+385,Mount Pleasant,helpful,1017
+386,Mount Pleasant,highly,1013
+387,Mount Pleasant,neighborhood,996
+388,Mount Pleasant,get,986
+389,Mount Pleasant,area,976
+390,Mount Pleasant,beautiful,952
+391,Mount Pleasant,city,948
+392,Mount Pleasant,wonderful,928
+393,Mount Pleasant,needed,905
+394,Mount Pleasant,street,889
+395,Mount Pleasant,staying,881
+396,Mount Pleasant,around,868
+397,Mount Pleasant,need,862
+398,Mount Pleasant,bed,852
+399,Mount Pleasant,made,851
+400,Grandview-Woodland,great,7878
+401,Grandview-Woodland,place,7262
+402,Grandview-Woodland,stay,6526
+403,Grandview-Woodland,clean,4169
+404,Grandview-Woodland,location,4019
+405,Grandview-Woodland,vancouver,3851
+406,Grandview-Woodland,us,3219
+407,Grandview-Woodland,would,3194
+408,Grandview-Woodland,comfortable,2749
+409,Grandview-Woodland,nice,2710
+410,Grandview-Woodland,drive,2665
+411,Grandview-Woodland,everything,2395
+412,Grandview-Woodland,recommend,2366
+413,Grandview-Woodland,restaurants,2339
+414,Grandview-Woodland,commercial,2320
+415,Grandview-Woodland,easy,2261
+416,Grandview-Woodland,close,2255
+417,Grandview-Woodland,home,2229
+418,Grandview-Woodland,host,2190
+419,Grandview-Woodland,really,2133
+420,Grandview-Woodland,perfect,1962
+421,Grandview-Woodland,house,1961
+422,Grandview-Woodland,apartment,1926
+423,Grandview-Woodland,well,1888
+424,Grandview-Woodland,good,1847
+425,Grandview-Woodland,definitely,1838
+426,Grandview-Woodland,space,1786
+427,Grandview-Woodland,downtown,1728
+428,Grandview-Woodland,quiet,1629
+429,Grandview-Woodland,time,1597
+430,Grandview-Woodland,lovely,1539
+431,Grandview-Woodland,suite,1526
+432,Grandview-Woodland,also,1511
+433,Grandview-Woodland,hosts,1448
+434,Grandview-Woodland,super,1319
+435,Grandview-Woodland,walk,1313
+436,Grandview-Woodland,-,1312
+437,Grandview-Woodland,neighborhood,1296
+438,Grandview-Woodland,area,1290
+439,Grandview-Woodland,shops,1256
+440,Grandview-Woodland,wonderful,1216
+441,Grandview-Woodland,friendly,1216
+442,Grandview-Woodland,helpful,1176
+443,Grandview-Woodland,needed,1172
+444,Grandview-Woodland,highly,1169
+445,Grandview-Woodland,get,1140
+446,Grandview-Woodland,need,1126
+447,Grandview-Woodland,room,1100
+448,Grandview-Woodland,bed,1099
+449,Grandview-Woodland,away,1097
+450,Fairview,great,1970
+451,Fairview,place,1649
+452,Fairview,stay,1390
+453,Fairview,location,1345
+454,Fairview,clean,913
+455,Fairview,apartment,908
+456,Fairview,vancouver,845
+457,Fairview,host,784
+458,Fairview,would,729
+459,Fairview,nice,673
+460,Fairview,us,620
+461,Fairview,close,598
+462,Fairview,comfortable,597
+463,Fairview,easy,573
+464,Fairview,recommend,567
+465,Fairview,everything,523
+466,Fairview,granville,511
+467,Fairview,good,497
+468,Fairview,really,485
+469,Fairview,downtown,468
+470,Fairview,room,461
+471,Fairview,home,442
+472,Fairview,walk,438
+473,Fairview,perfect,431
+474,Fairview,island,429
+475,Fairview,well,402
+476,Fairview,definitely,389
+477,Fairview,restaurants,365
+478,Fairview,also,345
+479,Fairview,quiet,339
+480,Fairview,helpful,330
+481,Fairview,space,327
+482,Fairview,house,327
+483,Fairview,time,324
+484,Fairview,bed,320
+485,Fairview,super,314
+486,Fairview,walking,307
+487,Fairview,beautiful,297
+488,Fairview,lovely,288
+489,Fairview,amazing,282
+490,Fairview,friendly,282
+491,Fairview,city,273
+492,Fairview,highly,269
+493,Fairview,need,264
+494,Fairview,-,260
+495,Fairview,located,260
+496,Fairview,get,258
+497,Fairview,bus,255
+498,Fairview,needed,249
+499,Fairview,area,246
+500,Kitsilano,great,9532
+501,Kitsilano,place,7256
+502,Kitsilano,stay,6947
+503,Kitsilano,location,6495
+504,Kitsilano,clean,4354
+505,Kitsilano,vancouver,3707
+506,Kitsilano,would,3573
+507,Kitsilano,comfortable,3223
+508,Kitsilano,host,3173
+509,Kitsilano,us,3029
+510,Kitsilano,house,2942
+511,Kitsilano,nice,2849
+512,Kitsilano,beach,2846
+513,Kitsilano,home,2840
+514,Kitsilano,apartment,2739
+515,Kitsilano,restaurants,2719
+516,Kitsilano,close,2652
+517,Kitsilano,everything,2639
+518,Kitsilano,easy,2634
+519,Kitsilano,recommend,2555
+520,Kitsilano,perfect,2426
+521,Kitsilano,well,2417
+522,Kitsilano,really,2066
+523,Kitsilano,room,2066
+524,Kitsilano,quiet,1981
+525,Kitsilano,beautiful,1946
+526,Kitsilano,lovely,1904
+527,Kitsilano,shops,1877
+528,Kitsilano,good,1832
+529,Kitsilano,definitely,1826
+530,Kitsilano,downtown,1774
+531,Kitsilano,space,1697
+532,Kitsilano,kitsilano,1683
+533,Kitsilano,also,1674
+534,Kitsilano,walk,1670
+535,Kitsilano,-,1612
+536,Kitsilano,time,1578
+537,Kitsilano,wonderful,1545
+538,Kitsilano,area,1524
+539,Kitsilano,neighborhood,1509
+540,Kitsilano,bus,1450
+541,Kitsilano,highly,1417
+542,Kitsilano,walking,1291
+543,Kitsilano,super,1290
+544,Kitsilano,kitchen,1289
+545,Kitsilano,friendly,1274
+546,Kitsilano,bed,1274
+547,Kitsilano,needed,1260
+548,Kitsilano,helpful,1239
+549,Kitsilano,one,1236
+550,Kerrisdale,place,929
+551,Kerrisdale,great,819
+552,Kerrisdale,stay,763
+553,Kerrisdale,house,471
+554,Kerrisdale,clean,460
+555,Kerrisdale,vancouver,443
+556,Kerrisdale,nice,426
+557,Kerrisdale,location,403
+558,Kerrisdale,would,364
+559,Kerrisdale,host,355
+560,Kerrisdale,us,329
+561,Kerrisdale,comfortable,295
+562,Kerrisdale,good,280
+563,Kerrisdale,room,275
+564,Kerrisdale,recommend,263
+565,Kerrisdale,downtown,262
+566,Kerrisdale,easy,257
+567,Kerrisdale,home,251
+568,Kerrisdale,bus,228
+569,Kerrisdale,really,227
+570,Kerrisdale,quiet,224
+571,Kerrisdale,everything,220
+572,Kerrisdale,time,215
+573,Kerrisdale,definitely,213
+574,Kerrisdale,beautiful,196
+575,Kerrisdale,neighborhood,196
+576,Kerrisdale,close,191
+577,Kerrisdale,perfect,187
+578,Kerrisdale,well,184
+579,Kerrisdale,friendly,178
+580,Kerrisdale,lovely,176
+581,Kerrisdale,get,172
+582,Kerrisdale,also,171
+583,Kerrisdale,super,164
+584,Kerrisdale,hosts,156
+585,Kerrisdale,space,156
+586,Kerrisdale,airport,139
+587,Kerrisdale,enjoyed,129
+588,Kerrisdale,back,128
+589,Kerrisdale,-,128
+590,Kerrisdale,helpful,128
+591,Kerrisdale,spacious,127
+592,Kerrisdale,area,127
+593,Kerrisdale,suite,124
+594,Kerrisdale,stayed,124
+595,Kerrisdale,bed,124
+596,Kerrisdale,wonderful,123
+597,Kerrisdale,highly,122
+598,Kerrisdale,one,122
+599,Kerrisdale,cozy,122
+600,Arbutus Ridge,place,1251
+601,Arbutus Ridge,great,1142
+602,Arbutus Ridge,stay,1139
+603,Arbutus Ridge,anne,689
+604,Arbutus Ridge,vancouver,685
+605,Arbutus Ridge,host,647
+606,Arbutus Ridge,clean,645
+607,Arbutus Ridge,us,600
+608,Arbutus Ridge,house,598
+609,Arbutus Ridge,nice,546
+610,Arbutus Ridge,room,529
+611,Arbutus Ridge,would,528
+612,Arbutus Ridge,comfortable,519
+613,Arbutus Ridge,home,497
+614,Arbutus Ridge,location,472
+615,Arbutus Ridge,lovely,415
+616,Arbutus Ridge,recommend,400
+617,Arbutus Ridge,really,361
+618,Arbutus Ridge,everything,350
+619,Arbutus Ridge,beautiful,322
+620,Arbutus Ridge,quiet,318
+621,Arbutus Ridge,easy,317
+622,Arbutus Ridge,downtown,316
+623,Arbutus Ridge,time,311
+624,Arbutus Ridge,good,300
+625,Arbutus Ridge,bus,297
+626,Arbutus Ridge,definitely,296
+627,Arbutus Ridge,wonderful,293
+628,Arbutus Ridge,well,284
+629,Arbutus Ridge,space,280
+630,Arbutus Ridge,also,269
+631,Arbutus Ridge,friendly,267
+632,Arbutus Ridge,close,264
+633,Arbutus Ridge,perfect,262
+634,Arbutus Ridge,area,251
+635,Arbutus Ridge,staying,243
+636,Arbutus Ridge,garden,243
+637,Arbutus Ridge,bed,237
+638,Arbutus Ridge,anne's,225
+639,Arbutus Ridge,neighborhood,223
+640,Arbutus Ridge,helpful,218
+641,Arbutus Ridge,super,214
+642,Arbutus Ridge,like,207
+643,Arbutus Ridge,back,207
+644,Arbutus Ridge,welcoming,199
+645,Arbutus Ridge,enjoyed,197
+646,Arbutus Ridge,city,196
+647,Arbutus Ridge,highly,195
+648,Arbutus Ridge,cozy,195
+649,Arbutus Ridge,made,190
+650,Sunset,place,1910
+651,Sunset,great,1564
+652,Sunset,stay,1451
+653,Sunset,clean,1202
+654,Sunset,vancouver,752
+655,Sunset,nice,750
+656,Sunset,would,713
+657,Sunset,location,628
+658,Sunset,easy,600
+659,Sunset,us,549
+660,Sunset,good,541
+661,Sunset,host,524
+662,Sunset,comfortable,522
+663,Sunset,everything,518
+664,Sunset,house,472
+665,Sunset,recommend,466
+666,Sunset,really,441
+667,Sunset,quiet,440
+668,Sunset,close,424
+669,Sunset,downtown,413
+670,Sunset,definitely,387
+671,Sunset,home,357
+672,Sunset,well,355
+673,Sunset,space,330
+674,Sunset,room,317
+675,Sunset,time,315
+676,Sunset,perfect,313
+677,Sunset,suite,309
+678,Sunset,bus,304
+679,Sunset,needed,294
+680,Sunset,get,288
+681,Sunset,super,279
+682,Sunset,also,274
+683,Sunset,apartment,266
+684,Sunset,street,247
+685,Sunset,need,239
+686,Sunset,parking,237
+687,Sunset,like,231
+688,Sunset,little,230
+689,Sunset,one,230
+690,Sunset,area,227
+691,Sunset,neighborhood,225
+692,Sunset,night,221
+693,Sunset,helpful,219
+694,Sunset,family,214
+695,Sunset,airport,212
+696,Sunset,kitchen,210
+697,Sunset,check,210
+698,Sunset,bed,208
+699,Sunset,quick,206
+700,Dunbar Southlands,great,1647
+701,Dunbar Southlands,place,1637
+702,Dunbar Southlands,stay,1468
+703,Dunbar Southlands,clean,1051
+704,Dunbar Southlands,nice,910
+705,Dunbar Southlands,house,888
+706,Dunbar Southlands,vancouver,835
+707,Dunbar Southlands,location,781
+708,Dunbar Southlands,us,742
+709,Dunbar Southlands,would,717
+710,Dunbar Southlands,host,669
+711,Dunbar Southlands,comfortable,655
+712,Dunbar Southlands,everything,602
+713,Dunbar Southlands,quiet,589
+714,Dunbar Southlands,home,587
+715,Dunbar Southlands,recommend,531
+716,Dunbar Southlands,easy,503
+717,Dunbar Southlands,well,485
+718,Dunbar Southlands,good,481
+719,Dunbar Southlands,room,451
+720,Dunbar Southlands,really,447
+721,Dunbar Southlands,neighborhood,424
+722,Dunbar Southlands,close,414
+723,Dunbar Southlands,beautiful,401
+724,Dunbar Southlands,lovely,388
+725,Dunbar Southlands,bus,381
+726,Dunbar Southlands,definitely,381
+727,Dunbar Southlands,time,372
+728,Dunbar Southlands,downtown,360
+729,Dunbar Southlands,space,358
+730,Dunbar Southlands,ubc,352
+731,Dunbar Southlands,also,349
+732,Dunbar Southlands,perfect,346
+733,Dunbar Southlands,wonderful,345
+734,Dunbar Southlands,kitchen,336
+735,Dunbar Southlands,friendly,327
+736,Dunbar Southlands,highly,311
+737,Dunbar Southlands,suite,308
+738,Dunbar Southlands,needed,302
+739,Dunbar Southlands,hosts,301
+740,Dunbar Southlands,area,297
+741,Dunbar Southlands,need,287
+742,Dunbar Southlands,helpful,285
+743,Dunbar Southlands,apartment,285
+744,Dunbar Southlands,like,268
+745,Dunbar Southlands,cathy,267
+746,Dunbar Southlands,back,263
+747,Dunbar Southlands,one,256
+748,Dunbar Southlands,bed,256
+749,Dunbar Southlands,-,247
+750,Marpole,place,2014
+751,Marpole,great,1573
+752,Marpole,clean,1529
+753,Marpole,stay,1467
+754,Marpole,location,941
+755,Marpole,nice,935
+756,Marpole,host,814
+757,Marpole,room,805
+758,Marpole,would,702
+759,Marpole,good,682
+760,Marpole,house,677
+761,Marpole,vancouver,665
+762,Marpole,close,619
+763,Marpole,airport,568
+764,Marpole,us,557
+765,Marpole,recommend,538
+766,Marpole,comfortable,532
+767,Marpole,really,513
+768,Marpole,easy,477
+769,Marpole,quiet,452
+770,Marpole,everything,443
+771,Marpole,downtown,422
+772,Marpole,also,394
+773,Marpole,convenient,383
+774,Marpole,definitely,377
+775,Marpole,time,372
+776,Marpole,home,366
+777,Marpole,skytrain,334
+778,Marpole,well,334
+779,Marpole,station,322
+780,Marpole,get,303
+781,Marpole,super,303
+782,Marpole,bus,301
+783,Marpole,helpful,298
+784,Marpole,apartment,296
+785,Marpole,friendly,295
+786,Marpole,perfect,292
+787,Marpole,kitchen,274
+788,Marpole,space,272
+789,Marpole,walk,269
+790,Marpole,bed,255
+791,Marpole,like,248
+792,Marpole,train,245
+793,Marpole,highly,244
+794,Marpole,one,236
+795,Marpole,need,236
+796,Marpole,bathroom,230
+797,Marpole,holly,230
+798,Marpole,night,229
+799,Marpole,staying,222
+800,Killarney,place,803
+801,Killarney,stay,598
+802,Killarney,clean,553
+803,Killarney,great,552
+804,Killarney,nice,420
+805,Killarney,house,343
+806,Killarney,room,301
+807,Killarney,host,297
+808,Killarney,would,292
+809,Killarney,good,261
+810,Killarney,vancouver,247
+811,Killarney,location,246
+812,Killarney,recommend,245
+813,Killarney,comfortable,230
+814,Killarney,us,205
+815,Killarney,easy,205
+816,Killarney,home,198
+817,Killarney,quiet,193
+818,Killarney,really,188
+819,Killarney,close,180
+820,Killarney,everything,169
+821,Killarney,also,157
+822,Killarney,time,156
+823,Killarney,definitely,151
+824,Killarney,downtown,144
+825,Killarney,friendly,142
+826,Killarney,well,139
+827,Killarney,bus,125
+828,Killarney,bed,120
+829,Killarney,check,112
+830,Killarney,helpful,106
+831,Killarney,kitchen,106
+832,Killarney,staying,102
+833,Killarney,skytrain,100
+834,Killarney,highly,99
+835,Killarney,get,97
+836,Killarney,neighborhood,96
+837,Killarney,walk,96
+838,Killarney,family,94
+839,Killarney,quick,94
+840,Killarney,needed,93
+841,Killarney,area,92
+842,Killarney,perfect,91
+843,Killarney,one,91
+844,Killarney,made,90
+845,Killarney,restaurants,89
+846,Killarney,need,88
+847,Killarney,night,88
+848,Killarney,beautiful,87
+849,Killarney,enjoyed,86
+850,Shaughnessy,great,782
+851,Shaughnessy,place,743
+852,Shaughnessy,stay,677
+853,Shaughnessy,clean,502
+854,Shaughnessy,location,462
+855,Shaughnessy,nice,388
+856,Shaughnessy,house,386
+857,Shaughnessy,would,356
+858,Shaughnessy,vancouver,315
+859,Shaughnessy,room,302
+860,Shaughnessy,host,271
+861,Shaughnessy,recommend,248
+862,Shaughnessy,good,239
+863,Shaughnessy,comfortable,234
+864,Shaughnessy,beautiful,233
+865,Shaughnessy,space,227
+866,Shaughnessy,quiet,225
+867,Shaughnessy,easy,222
+868,Shaughnessy,downtown,221
+869,Shaughnessy,home,220
+870,Shaughnessy,us,203
+871,Shaughnessy,really,194
+872,Shaughnessy,close,193
+873,Shaughnessy,everything,183
+874,Shaughnessy,neighborhood,179
+875,Shaughnessy,definitely,175
+876,Shaughnessy,well,168
+877,Shaughnessy,bus,149
+878,Shaughnessy,perfect,146
+879,Shaughnessy,area,144
+880,Shaughnessy,time,143
+881,Shaughnessy,kitchen,135
+882,Shaughnessy,mal,135
+883,Shaughnessy,super,130
+884,Shaughnessy,also,130
+885,Shaughnessy,lovely,120
+886,Shaughnessy,get,112
+887,Shaughnessy,hosts,112
+888,Shaughnessy,one,110
+889,Shaughnessy,needed,109
+890,Shaughnessy,spacious,108
+891,Shaughnessy,highly,105
+892,Shaughnessy,bed,104
+893,Shaughnessy,bathroom,101
+894,Shaughnessy,check,101
+895,Shaughnessy,helpful,99
+896,Shaughnessy,-,98
+897,Shaughnessy,suite,98
+898,Shaughnessy,amazing,97
+899,Shaughnessy,need,95
+900,South Cambie,place,1120
+901,South Cambie,great,1082
+902,South Cambie,stay,901
+903,South Cambie,location,649
+904,South Cambie,clean,595
+905,South Cambie,vancouver,544
+906,South Cambie,host,516
+907,South Cambie,us,444
+908,South Cambie,would,427
+909,South Cambie,comfortable,412
+910,South Cambie,close,383
+911,South Cambie,nice,381
+912,South Cambie,house,371
+913,South Cambie,home,363
+914,South Cambie,ann,352
+915,South Cambie,everything,342
+916,South Cambie,recommend,331
+917,South Cambie,easy,319
+918,South Cambie,quiet,304
+919,South Cambie,perfect,267
+920,South Cambie,space,257
+921,South Cambie,downtown,255
+922,South Cambie,lovely,254
+923,South Cambie,well,253
+924,South Cambie,definitely,247
+925,South Cambie,really,245
+926,South Cambie,room,243
+927,South Cambie,walk,239
+928,South Cambie,time,234
+929,South Cambie,neighborhood,233
+930,South Cambie,good,231
+931,South Cambie,restaurants,212
+932,South Cambie,also,212
+933,South Cambie,helpful,211
+934,South Cambie,super,203
+935,South Cambie,wonderful,196
+936,South Cambie,highly,194
+937,South Cambie,apartment,194
+938,South Cambie,-,193
+939,South Cambie,beautiful,189
+940,South Cambie,ann's,189
+941,South Cambie,get,187
+942,South Cambie,suite,173
+943,South Cambie,friendly,171
+944,South Cambie,station,163
+945,South Cambie,made,162
+946,South Cambie,area,161
+947,South Cambie,one,159
+948,South Cambie,excellent,158
+949,South Cambie,back,156
+950,Strathcona,great,568
+951,Strathcona,place,499
+952,Strathcona,stay,359
+953,Strathcona,location,291
+954,Strathcona,clean,283
+955,Strathcona,apartment,244
+956,Strathcona,vancouver,227
+957,Strathcona,would,209
+958,Strathcona,host,197
+959,Strathcona,recommend,164
+960,Strathcona,close,162
+961,Strathcona,everything,155
+962,Strathcona,easy,153
+963,Strathcona,loft,151
+964,Strathcona,really,149
+965,Strathcona,nice,140
+966,Strathcona,comfortable,139
+967,Strathcona,us,135
+968,Strathcona,well,132
+969,Strathcona,space,132
+970,Strathcona,downtown,126
+971,Strathcona,walk,121
+972,Strathcona,perfect,114
+973,Strathcona,definitely,105
+974,Strathcona,beautiful,99
+975,Strathcona,gastown,97
+976,Strathcona,restaurants,95
+977,Strathcona,super,93
+978,Strathcona,time,88
+979,Strathcona,helpful,88
+980,Strathcona,also,88
+981,Strathcona,james,88
+982,Strathcona,good,87
+983,Strathcona,marty,85
+984,Strathcona,walking,81
+985,Strathcona,highly,81
+986,Strathcona,amazing,78
+987,Strathcona,staying,74
+988,Strathcona,located,70
+989,Strathcona,home,68
+990,Strathcona,it's,68
+991,Strathcona,hosts,68
+992,Strathcona,check,67
+993,Strathcona,accommodating,67
+994,Strathcona,leanne,67
+995,Strathcona,get,66
+996,Strathcona,even,65
+997,Strathcona,loved,64
+998,Strathcona,area,64
+999,Strathcona,needed,63
+1000,West Point Grey,great,1143
+1001,West Point Grey,place,949
+1002,West Point Grey,stay,938
+1003,West Point Grey,location,731
+1004,West Point Grey,clean,658
+1005,West Point Grey,house,583
+1006,West Point Grey,vancouver,529
+1007,West Point Grey,nice,476
+1008,West Point Grey,would,462
+1009,West Point Grey,host,426
+1010,West Point Grey,ubc,394
+1011,West Point Grey,us,393
+1012,West Point Grey,home,393
+1013,West Point Grey,comfortable,382
+1014,West Point Grey,beautiful,353
+1015,West Point Grey,close,348
+1016,West Point Grey,easy,342
+1017,West Point Grey,quiet,324
+1018,West Point Grey,everything,321
+1019,West Point Grey,perfect,320
+1020,West Point Grey,recommend,316
+1021,West Point Grey,room,298
+1022,West Point Grey,lovely,289
+1023,West Point Grey,beach,283
+1024,West Point Grey,neighborhood,261
+1025,West Point Grey,well,259
+1026,West Point Grey,good,257
+1027,West Point Grey,bus,244
+1028,West Point Grey,space,240
+1029,West Point Grey,hosts,240
+1030,West Point Grey,definitely,239
+1031,West Point Grey,wonderful,238
+1032,West Point Grey,time,233
+1033,West Point Grey,really,231
+1034,West Point Grey,suite,224
+1035,West Point Grey,restaurants,211
+1036,West Point Grey,area,209
+1037,West Point Grey,apartment,207
+1038,West Point Grey,helpful,202
+1039,West Point Grey,family,201
+1040,West Point Grey,downtown,194
+1041,West Point Grey,needed,190
+1042,West Point Grey,also,188
+1043,West Point Grey,walk,187
+1044,West Point Grey,kitchen,186
+1045,West Point Grey,little,170
+1046,West Point Grey,highly,169
+1047,West Point Grey,enjoyed,167
+1048,West Point Grey,shops,161
+1049,West Point Grey,friendly,159
+1050,Oakridge,place,1214
+1051,Oakridge,great,973
+1052,Oakridge,stay,866
+1053,Oakridge,clean,839
+1054,Oakridge,location,625
+1055,Oakridge,room,619
+1056,Oakridge,nice,533
+1057,Oakridge,house,514
+1058,Oakridge,host,477
+1059,Oakridge,would,434
+1060,Oakridge,vancouver,428
+1061,Oakridge,comfortable,411
+1062,Oakridge,good,395
+1063,Oakridge,easy,362
+1064,Oakridge,close,360
+1065,Oakridge,us,355
+1066,Oakridge,recommend,353
+1067,Oakridge,really,342
+1068,Oakridge,quiet,329
+1069,Oakridge,downtown,300
+1070,Oakridge,home,283
+1071,Oakridge,airport,269
+1072,Oakridge,everything,267
+1073,Oakridge,also,262
+1074,Oakridge,definitely,248
+1075,Oakridge,well,247
+1076,Oakridge,super,246
+1077,Oakridge,rebecca,233
+1078,Oakridge,space,219
+1079,Oakridge,bed,216
+1080,Oakridge,friendly,216
+1081,Oakridge,kitchen,213
+1082,Oakridge,station,210
+1083,Oakridge,get,210
+1084,Oakridge,time,210
+1085,Oakridge,skytrain,209
+1086,Oakridge,convenient,203
+1087,Oakridge,bathroom,193
+1088,Oakridge,walk,192
+1089,Oakridge,spacious,191
+1090,Oakridge,perfect,190
+1091,Oakridge,one,189
+1092,Oakridge,helpful,184
+1093,Oakridge,train,181
+1094,Oakridge,highly,172
+1095,Oakridge,night,163
+1096,Oakridge,area,161
+1097,Oakridge,like,161
+1098,Oakridge,bus,158
+1099,Oakridge,staying,155
+1100,Victoria-Fraserview,place,1012
+1101,Victoria-Fraserview,stay,756
+1102,Victoria-Fraserview,clean,732
+1103,Victoria-Fraserview,great,671
+1104,Victoria-Fraserview,nice,488
+1105,Victoria-Fraserview,house,402
+1106,Victoria-Fraserview,host,357
+1107,Victoria-Fraserview,would,336
+1108,Victoria-Fraserview,vancouver,336
+1109,Victoria-Fraserview,good,322
+1110,Victoria-Fraserview,room,317
+1111,Victoria-Fraserview,location,299
+1112,Victoria-Fraserview,everything,271
+1113,Victoria-Fraserview,comfortable,270
+1114,Victoria-Fraserview,recommend,260
+1115,Victoria-Fraserview,really,242
+1116,Victoria-Fraserview,us,235
+1117,Victoria-Fraserview,easy,232
+1118,Victoria-Fraserview,bus,207
+1119,Victoria-Fraserview,get,195
+1120,Victoria-Fraserview,quiet,194
+1121,Victoria-Fraserview,definitely,192
+1122,Victoria-Fraserview,home,190
+1123,Victoria-Fraserview,downtown,185
+1124,Victoria-Fraserview,close,177
+1125,Victoria-Fraserview,friendly,168
+1126,Victoria-Fraserview,time,166
+1127,Victoria-Fraserview,space,163
+1128,Victoria-Fraserview,kitchen,156
+1129,Victoria-Fraserview,also,156
+1130,Victoria-Fraserview,well,153
+1131,Victoria-Fraserview,helpful,149
+1132,Victoria-Fraserview,need,135
+1133,Victoria-Fraserview,needed,129
+1134,Victoria-Fraserview,super,129
+1135,Victoria-Fraserview,suite,118
+1136,Victoria-Fraserview,like,117
+1137,Victoria-Fraserview,apartment,114
+1138,Victoria-Fraserview,one,113
+1139,Victoria-Fraserview,parking,113
+1140,Victoria-Fraserview,spacious,111
+1141,Victoria-Fraserview,perfect,110
+1142,Victoria-Fraserview,stayed,106
+1143,Victoria-Fraserview,always,106
+1144,Victoria-Fraserview,quick,103
+1145,Victoria-Fraserview,bathroom,103
+1146,Victoria-Fraserview,lucy,103
+1147,Victoria-Fraserview,neighborhood,102
+1148,Victoria-Fraserview,shafi,102
+1149,Victoria-Fraserview,enjoyed,101
