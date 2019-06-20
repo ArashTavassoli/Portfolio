@@ -6,9 +6,11 @@ Please see below for the list of projects included in this repository. For Jupyt
 
 For more information about me, my resume and some testimonial please visit my personal website at www.arash-tavassoli.com.
 
-## Image Classification using a Deep Neural Network
-- Built a deep Neural Network in NumPy for image classification ([Jupyter Notebook](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Image%20Classification,%20Deep%20Neural%20Network/Image%20Classification,%20Deep%20Neural%20Network.ipynb))
-- Practicing hyperparameter tuning, regularization and optimization (work-in-progress)
+## Facial Expression Recognition
+- Exploratory Data Analysis ([Jupyter Notebook 1](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Facial%20Classification%20Recognition/Part%201%20-%20Exploratory%20Data%20Analysis.ipynb))
+- Data Preprocessing ([Jupyter Notebook 2](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Facial%20Classification%20Recognition/Part%202%20-%20Data%20Preprocessing.ipynb))
+- Model Training and Analysis ([Jupyter Notebook 3](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Facial%20Classification%20Recognition/Part%203%20-%20Model%20Training%20and%20Analysis.ipynb))
+- Real-time Facial Expression Recognizer ([Jupyter Notebook 4](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Facial%20Classification%20Recognition/Part%204%20-%20Real-Time%20Facial%20Expression%20Recognition.ipynb))
 
 ## Visualization of Airbnb'a presence in city of Vancouver
 - Data Cleaning ([Jupyter Notebook](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Airbnb%20Homes%20in%20Vancouver/Airbnb%20Homes%20in%20Vancouver%20%28Data%20Cleaning%29.ipynb))
