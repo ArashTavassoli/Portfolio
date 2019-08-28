@@ -17,7 +17,7 @@ For more information about me, my resume and some testimonial please visit my pe
 - Data Visualization in Tableau ([Tableau Dashboard on Tableau Public](https://public.tableau.com/profile/arash.tavassoli#!/vizhome/AirbnbHomesinVancouver/Dashboard))
 
 ## Handwritten Digit Recognizer with MNIST Data Set
-- Trying different machine learning models and compare their performance in predicting handwritten digits (Logistic Regression with PCA and Cross-Validation, KNN, Decision Trees and Random Forests, SVM, Gradient Boosting Classifier) ([Jupyter Notebook](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Handwritten%20Digit%20Recognizer%20with%20MNIST%20Dataset/MNIST.ipynb))
+- Trying different machine learning models and comparing their performance in predicting handwritten digits (Logistic Regression with PCA and Cross-Validation, KNN, Decision Trees and Random Forests, SVM, Gradient Boosting Classifier) ([Jupyter Notebook](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Handwritten%20Digit%20Recognizer%20with%20MNIST%20Dataset/MNIST.ipynb))
 
 ## Analyzing data from previous US presidential elections
 - EDA and Data Cleaning ([Jupyter Notebook 1](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Stats%20and%20Politics/Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb))
