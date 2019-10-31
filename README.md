@@ -17,13 +17,15 @@ For more information about me, my resume and some testimonial please visit my pe
 - Data Visualization in Tableau ([Tableau Dashboard on Tableau Public](https://public.tableau.com/profile/arash.tavassoli#!/vizhome/AirbnbHomesinVancouver/Dashboard))
 
 ## Handwritten Digit Recognizer with MNIST Data Set
-- Trying different machine learning models and comparing their performance in predicting handwritten digits (Logistic Regression with PCA and Cross-Validation, KNN, Decision Trees and Random Forests, SVM, Gradient Boosting Classifier) ([Jupyter Notebook](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Handwritten%20Digit%20Recognizer%20with%20MNIST%20Dataset/MNIST.ipynb))
+- Trying different machine learning models and comparing their performance in predicting handwritten digits (Logistic Regression with PCA and Cross-Validation, KNN, Decision Trees and Random Forests, SVM, Gradient Boosting Classifier)
 
 ## Analyzing data from previous US presidential elections
-- EDA and Data Cleaning ([Jupyter Notebook 1](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Stats%20and%20Politics/Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb))
-- Statistical analysis and data visualization ([Jupyter Notebook 2](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/10bc315fe573290deb5b15e4e758e5f1e52b04a9/Stats%20and%20Politics/Part%202%20-%20Statistical%20Analysis.ipynb))
-- Statistical modeling, model selection and result interpretation ([Jupyter Notebook 3](https://nbviewer.jupyter.org/github/ArashTavassoli/Portfolio/blob/master/Stats%20and%20Politics/Part%203%20-%20Statistical%20Modeling.ipynb))
+- EDA and Data Cleaning
+- Statistical analysis and data visualization
+- Statistical modeling, model selection and result interpretation
 
 ## Looking into trip data form BIXI, Montréal's bicycle sharing system
-- Basic SQL Queries on MySQL Workbench ([Code on GitHub](https://github.com/ArashTavassoli/Portfolio/blob/master/BIXI%20on%20MySQL/Bixi.sql))
-- Data visualization and reporting using Tableau and Microsoft Excel ([Report on Google Drive](https://drive.google.com/file/d/1CNfuCZqQETO4b0F0JSJxIXTbflwQELfM/view))
+- Basic SQL Queries on MySQL Workbench
+- Data visualization and reporting using Tableau and Microsoft Excel
+
+* The last three projects were delivered as project assignments for BrainStation's Data Science Diploma program and cannot be shared publicly. Please feel free to contact me through LinkedIn for Email and I will be happy to share the source codes and Jupyter Notebooks with you.
